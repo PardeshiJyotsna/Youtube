@@ -1,0 +1,45 @@
+.P1{
+  font-family: Arial;
+  color: rgb(115, 114, 114);
+  font-size: 14px;
+  margin-bottom: 3px;
+}
+
+.email{
+  margin-top: 0;
+  width:300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 0;
+  border-radius: 5px;
+
+}
+.P2{
+  font-family: Arial;
+  color: rgb(115, 114, 114);
+  font-size: 13px;
+  text-align: left;
+
+}
+
+.btn{
+  background-color: rgba(41, 118, 211) ;
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  color:white;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 20px;
+  padding-right: 2dvh;
+  border-radius: 2px;
+  margin-right: 8px;
+  cursor: pointer;
+  width: 300px;
+  vertical-align: top;
+  border-radius: 20px;
+
+}
+

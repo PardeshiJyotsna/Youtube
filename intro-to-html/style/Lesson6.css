@@ -1,0 +1,19 @@
+.f1{
+  font-size: 30px;
+  font-family:Arial;
+  font-weight: bold;
+  color:black;
+  text-align: center;
+  margin-bottom: 13px; 
+
+}
+.f2{
+  font-size: 25px;
+  color:rgb(110, 107, 107);
+  margin-top: 0;
+  text-align: center; 
+}
+.span:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
